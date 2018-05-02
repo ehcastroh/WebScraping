@@ -66,21 +66,17 @@ Multiple python notebooks (Jupyter) were written in order to carry out project. 
     
     filter_news_by_marker
 
-3) Natural Language Processing and Formulations:
+3) Natural Language Processing and Formulations (in order):
 
-    <name to be included upon completion>
+    clean_articles_final(1o2)
     
-    <name to be included upon completion>
-    
-    <name to be included upon completion>
- 
- 3) Classificatin and Modeling:
+    clean_articles_final(2o2)
+     
+ 4) Classificatin and Modeling:
 
-    <name to be included upon completion>
+    Word2Vec_and_KMeans_clustering
     
-    <name to be included upon completion>
-    
-    <name to be included upon completion>
+    Final_Classification
   
   
   
